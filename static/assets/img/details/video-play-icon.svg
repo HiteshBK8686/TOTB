@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+    <defs>
+        <filter id="prefix__a" width="286.1%" height="286.1%" x="-93.1%" y="-65.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.74460747 0 0 0 0 1 0 0 0 0 0.972184972 0 0 0 1 0"/>
+        </filter>
+        <circle id="prefix__b" cx="36" cy="36" r="18"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(.8)">
+        <circle cx="36" cy="36" r="36" fill="#33988D" opacity=".03"/>
+        <circle cx="36" cy="36" r="27" fill="#33988D" opacity=".15"/>
+        <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+        <use fill="#33988D" xlink:href="#prefix__b"/>
+        <path fill="#FFF" d="M33.7 40.415v-9.83c0-.332.269-.6.6-.6.16 0 .312.063.424.175l4.916 4.916c.234.234.234.614 0 .848l-4.916 4.916c-.234.234-.614.234-.848 0-.113-.113-.176-.265-.176-.425z"/>
+    </g>
+</svg>

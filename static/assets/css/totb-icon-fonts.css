@@ -1,0 +1,276 @@
+@font-face {
+  font-family: 'totb-icon-fonts';
+  src:  url('../fonts/totb-icon-fonts.eot?k3r13k');
+  src:  url('../fonts/totb-icon-fonts.eot?k3r13k#iefix') format('embedded-opentype'),
+    url('../fonts/totb-icon-fonts.ttf?k3r13k') format('truetype'),
+    url('../fonts/totb-icon-fonts.woff?k3r13k') format('woff'),
+    url('../fonts/totb-icon-fonts.svg?k3r13k#totb-icon-fonts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'totb-icon-fonts' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Beachfront:before {
+  content: "\e93d";
+}
+.icon-BYO:before {
+  content: "\e93e";
+}
+.icon-Designated-Smoking-Area .path1:before {
+  content: "\e93f";
+  color: rgb(56, 56, 56);
+}
+.icon-Designated-Smoking-Area .path2:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Designated-Smoking-Area .path3:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Family-Friendly:before {
+  content: "\e942";
+}
+.icon-Good-Wine-List:before {
+  content: "\e943";
+}
+.icon-Happy-Hours:before {
+  content: "\e944";
+}
+.icon-Home-Delivery:before {
+  content: "\e945";
+}
+.icon-Private-Dining:before {
+  content: "\e946";
+}
+.icon-Riverfront:before {
+  content: "\e947";
+}
+.icon-Romantic:before {
+  content: "\e948";
+}
+.icon-Round-Table-Dining:before {
+  content: "\e949";
+}
+.icon-Unique:before {
+  content: "\e94a";
+}
+.icon-Vegan-Friendly:before {
+  content: "\e94b";
+}
+.icon-Waterfront:before {
+  content: "\e94c";
+}
+.icon-with-a-view:before {
+  content: "\e94d";
+}
+.icon-With-Public-Mooring:before {
+  content: "\e94e";
+}
+.icon-Allows-External-Catering:before {
+  content: "\e900";
+}
+.icon-Approved-Caterers-Only:before {
+  content: "\e901";
+}
+.icon-awward-icon:before {
+  content: "\e902";
+}
+.icon-back:before {
+  content: "\e903";
+}
+.icon-bookmark:before {
+  content: "\e904";
+}
+.icon-Bookmarked-icon:before {
+  content: "\e905";
+}
+.icon-book-now:before {
+  content: "\e906";
+}
+.icon-BYO-Alcohol-Allowed:before {
+  content: "\e907";
+}
+.icon-calender:before {
+  content: "\e908";
+}
+.icon-call:before {
+  content: "\e909";
+}
+.icon-Call-icon:before {
+  content: "\e90a";
+}
+.icon-close:before {
+  content: "\e90b";
+}
+.icon-Complimentary-Water:before {
+  content: "\e90c";
+}
+.icon-Conference-call:before {
+  content: "\e90d";
+}
+.icon-Delete:before {
+  content: "\e90e";
+}
+.icon-Disable-Access:before {
+  content: "\e90f";
+}
+.icon-down-arrow:before {
+  content: "\e910";
+}
+.icon-Edit:before {
+  content: "\e911";
+}
+.icon-email:before {
+  content: "\e912";
+}
+.icon-error-icon:before {
+  content: "\e913";
+}
+.icon-filter-icon:before {
+  content: "\e914";
+}
+.icon-Free-Wi-Fi:before {
+  content: "\e915";
+}
+.icon-Full-Bar-Available:before {
+  content: "\e916";
+}
+.icon-Group-icon:before {
+  content: "\e917";
+}
+.icon-image:before {
+  content: "\e918";
+}
+.icon-indoor-Seating:before {
+  content: "\e919";
+}
+.icon-Info-icon:before {
+  content: "\e91a";
+}
+.icon-inhouse-Catering:before {
+  content: "\e91b";
+}
+.icon-Kid-Friendly:before {
+  content: "\e91c";
+}
+.icon-left-small:before {
+  content: "\e91d";
+}
+.icon-link-icon:before {
+  content: "\e91e";
+}
+.icon-list-view:before {
+  content: "\e91f";
+}
+.icon-location:before {
+  content: "\e920";
+}
+.icon-map-view:before {
+  content: "\e921";
+  color: #333c5a;
+}
+.icon-mark-icon:before {
+  content: "\e922";
+}
+.icon-menu:before {
+  content: "\e923";
+  color: #333c5a;
+}
+.icon-Near-Public-Transportation:before {
+  content: "\e924";
+}
+.icon-next:before {
+  content: "\e925";
+}
+.icon-Not-Useful-icon:before {
+  content: "\e926";
+}
+.icon-Online-Order:before {
+  content: "\e927";
+}
+.icon-Outdoor-Seating:before {
+  content: "\e928";
+}
+.icon-Parking-Available:before {
+  content: "\e929";
+}
+.icon-Password-Hide:before {
+  content: "\e92a";
+  color: #838282;
+}
+.icon-Password-Show:before {
+  content: "\e92b";
+  color: #838282;
+}
+.icon-Projector:before {
+  content: "\e92c";
+}
+.icon-review-share:before {
+  content: "\e92d";
+}
+.icon-right-small:before {
+  content: "\e92e";
+}
+.icon-search:before {
+  content: "\e92f";
+}
+.icon-Share .path1:before {
+  content: "\e930";
+  color: rgb(56, 56, 56);
+}
+.icon-Share .path2:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(66, 66, 66);
+}
+.icon-share-icon:before {
+  content: "\e932";
+}
+.icon-Star-fill:before {
+  content: "\e933";
+}
+.icon-Star-stroke:before {
+  content: "\e934";
+}
+.icon-Storage-Space:before {
+  content: "\e935";
+}
+.icon-Takeaway-Available:before {
+  content: "\e936";
+}
+.icon-time:before {
+  content: "\e937";
+}
+.icon-Useful-icon:before {
+  content: "\e938";
+}
+.icon-User-icon:before {
+  content: "\e939";
+}
+.icon-Vegetarian:before {
+  content: "\e93a";
+}
+.icon-Website-icon:before {
+  content: "\e93b";
+}
+.icon-zoom-icon:before {
+  content: "\e93c";
+}

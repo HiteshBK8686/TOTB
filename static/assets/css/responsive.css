@@ -1,0 +1,1282 @@
+/*---------------------
+  media CSS
+-----------------------*/
+@media (min-width: 768px) {
+  .related_venues .venue_carousel .owl-dots {
+    position: absolute;
+    top: -65px;
+    right: 0;
+  }
+}
+@media screen and (max-width:1600px) {
+	.testimonial-slider .owl-carousel.testimonial-carousel.owl-loaded.owl-drag { margin-left: 14%; }
+	.testimonial-slider .owl-carousel .owl-nav { left: 52.5%; }
+}
+
+@media screen and (max-width:1440px) {
+
+	/*---------------------
+			  index Page CSS
+		-----------------------*/
+	.function-venue-wrap .top-section h1 { width: 86%; }
+	.top-section h1 { font-size: 38px; }
+
+	.testimonial-slider .owl-carousel.testimonial-carousel.owl-loaded.owl-drag { margin-left: 10%; }
+	.testimonial-slider .owl-carousel .owl-nav { left: 80.5%; }
+}
+
+@media screen and (max-width:1366px) {
+	/*---------------------
+		  listing CSS
+	-----------------------*/
+	.related_venues .card-body { padding: 10px 10px 0 17px; }
+	.related_venues .card-body h5.label { margin-bottom: 5px; }
+	.testimonial-slider .owl-carousel.testimonial-carousel.owl-loaded.owl-drag { margin-left: 8%; }
+	.testimonial-slider .owl-carousel .owl-nav { left: 74.5%; }
+
+
+
+	/*---------------------
+		  comingsoon CSS
+	-----------------------*/
+	.comingsoon .logo { margin-top: -40px; margin-bottom: 34px; }
+	.comingsoon .logo img { width: 180px; }
+	h5 { font-size: 12px; }
+	h1 { font-size: 34px; }
+	.comingsoon .content p { width: 38%; margin: 0 auto; }
+	.comingsoon .content h1 { padding-bottom: 10px; }
+	.comingsoon .notify .form-control { padding: 20px 20px; font-size: 12px; }
+	.comingsoon .notify .btn-filled { font-size: 12px; padding-top: 0; padding-bottom: 0; }
+	h4 { font-size: 14px; }
+	.comingsoon .social-links a { width: 34px; height: 34px; font-size: 14px; padding: 8px; }
+	.contact-btn .btn-filled { padding: 12px 20px; letter-spacing: 1px; }
+	.coming-soon-wrap { padding: 32px 32px 20px; }
+	.comingsoon .amenities { margin-bottom: 30px; }
+	.comingsoon .notify { margin: 0 auto 30px; }
+
+	/*---------------------
+		modal popup CSS
+	-----------------------*/
+	.contact-popup .modal-header { padding: 30px 30px 20px 30px; }
+	.contact-popup .modal-header h5 { padding-bottom: 6px; }
+	.contact-popup .form-group { margin-bottom: 10px; }
+	.contact-popup textarea.form-control { height: 76px !important; }
+	.contact-popup .modal-footer { padding: 0 48px 30px 48px; }
+
+	/*---------------------
+		  index Page CSS
+	-----------------------*/
+	.section-header { font-size: 30px; padding-bottom: 40px; }
+	.section { padding: 60px 0; }
+	.index-wrap .top-section { padding: 0; }
+	.function-venue-wrap .top-section h1 { width: 73%; }
+	.top-section h1 { font-size: 36px; }
+	.top-section .amenities h4 { font-size: 18px; }
+	.top-section .amenities .disable p { font-size: 13px; line-height: 1.2; }
+	.trend-left li.tag { font-size: 16px; padding: 24px 12px; }
+	.trend-left li { margin-left: 12px; }
+	.trend-left li h5 { font-size: 14px; }
+	.trend-left li p { font-size: 12px; }
+	.trend-right .inside { padding: 16px 18px; }
+
+	/*.trend-right .box { min-height: 270px; }*/
+	.trend-right .inside h5 { font-size: 14px; }
+	.trend-right .inside p { font-size: 12px; }
+	.restaurant .bottom-center { font-size: 14px; }
+	.category ul li a { font-size: 16px; }
+	.category ul li.active a { font-size: 24px; }
+	.category .more a { font-size: 12px; }
+	.category .title { padding-bottom: 40px; }
+	.category .inside h5 { font-size: 16px; height: 50px;}
+	.category .inside p { font-size: 12px; }
+	footer h5.title { font-size: 18px; }
+	.form-inline .btn-filled { margin: 0 5px; }
+	.btn-filled { font-size: 12px; }
+	.top-nav .menu-large a.green { font-size: 15px; margin-right: 0px; padding: 10px 5px; }
+
+
+	/*---------------------
+	  venue detail Page CSS
+	-----------------------*/
+	.overview .dtl-right .contact .btn.btn-filled.mr-2 { margin-right: 2px !important; }
+
+
+}
+
+@media screen and (max-width:1224px) {
+	.testimonial-slider .owl-carousel.testimonial-carousel.owl-loaded.owl-drag { margin-left: 3%; }
+	.testimonial-slider .owl-carousel .owl-nav { left: 78.5%; }
+
+	/*------------------------------
+	  blog page CSS
+	-------------------------------*/
+	.blog .owl-nav {
+	   
+	    right: 15rem;
+	    bottom: 5rem;
+	}
+	.blog .carousel-caption.text-left {
+	   
+	    margin-top: -6rem;
+	   
+	}
+
+}
+
+@media screen and (max-width:1199px) {
+
+	/*------------------------------
+	  about us page CSS
+	-------------------------------*/
+	.about-us { padding: 5rem 0 3rem; }
+	.about-us .about-us-info { margin-bottom: 4rem; }
+	.about-us .our-mission { padding: 6rem 0 4rem; }
+	.about-us .our-vision { margin: 6rem 0 0; }
+	.testimonials { padding: 4rem 0 10rem; }
+	.testimonial-slider .owl-carousel.testimonial-carousel.owl-loaded.owl-drag { margin-left: 10%; }
+	.about-us .info-img:after { position: absolute; content: ""; width: 302px; height: 270px; bottom: -24px; left: -20px; }
+	.about-us .our-mission .info-img:before { position: absolute; content: ""; width: 302px; height: 270px; bottom: -24px; right: -20px; }
+	/*---------------------
+		  search bar enable after scroll
+	-----------------------*/
+	.fix-search .nav-search .search-bar { width: 14rem; margin-left: 0; }
+	.fix-search .nav-search .search-bar .form-control { padding: 20px 40px 20px 10px; width: 80%; }
+
+	/*---------------------
+			  index Page CSS
+	-----------------------*/
+	.restaurant .restro-item { width: 175px; }
+	.top-section h1 { font-size: 30px; width: 63%; }
+	/*---------------------
+		  Detail Page CSS
+	-----------------------*/
+	.detail-wrap .tag-left h1 { font-size: 30px; }
+	.detail-wrap .dark-menu ul.breadcrumb li { font-size: 12px; }
+	.detail-wrap .tag-rgt .btn.btn-white,.detail-wrap .tag-rgt .btn.btn-filled { font-size: 12px; }
+	.detail-slider .carousel-control-prev { left: 17rem; }
+	.detail-slider .carousel-control-next { right: 17rem; }
+	.detail-wrap .info { margin-right: 2rem; }
+	.detail-tabs .nav-tabs .nav-link { font-size: 13px; }
+	.write-review h5 { font-size: 16px; }
+	.write-review .review .btn-filled { font-size: 12px; }
+	.write-review .usr-img { margin-right: 10px; }
+	.write-review .rw-rate { justify-content: flex-end; align-items: flex-end; padding-bottom: 15px; flex-direction: column; }
+	.write-review .rw-star { margin-bottom: 15px; }
+	.comments-tab .nav-tabs .nav-link { font-size: 13px; }
+	.comments-tab .usr-nm h5 { font-size: 18px; }
+	.comments-tab .profile-info p, .menu-tab .sub-list .food-info p, .about-tab p, .event-info p, .event-tab .date-time, .review-tab .star p { font-size: 13px; }
+	.menu-tab .nav-item a.nav-link { font-size: 16px; }
+	.menu-tab .tab-content h2 { font-size: 20px; }
+	.menu-tab .sub-list ul li, .menu-tab .sub-list .food-info h5 { font-size: 16px; }
+	.event-tab .event-info h5 { font-size: 16px; }
+	.review-tab .rev-text h5 { font-size: 20px; }
+	.review-tab .star .point, .review-tab .star span.fa.fa-star.checked, .review-tab .star span.fa.fa-star.checked { font-size: 20px; }
+	.review-tab .all-rev a { font-size: 15px; }
+
+	/*---------------------
+	  listing Page CSS
+	-----------------------*/
+	.listing .filter .filter-bx { padding: 30px 0px; }
+
+	/*------------------------------
+	  blog detail page CSS
+	-------------------------------*/
+	.right-panel .subscribe-box { padding: 30px 20px; }
+	.right-panel .category-box { padding: 20px 20px 10px 20px; }
+
+	/*------------------------------
+	  cookie popup CSS
+	-------------------------------*/
+	.cookie-popup h5 { padding-right: 10px; margin-right: 10px; }
+	.cookie-popup .accept-btn { padding-right: 0; }
+
+
+	/*------------------------------
+	 help page CSS
+	-------------------------------*/
+	.help-wrap .help-link h3 { font-size: 20px; }
+
+	/*------------------------------
+	  landing page CSS
+	-------------------------------*/
+	.location-card .info { padding: 30px 15px 15px 15px; }
+	.location-card .loc { padding-right: 10px; }
+	.location-card .place-info span { padding-right: 5px; }
+
+	/* new landing page */
+	.cta-light .cta-title h3 { border-right: 0; }
+
+}
+
+@media screen and (max-width:1080px) {
+	.listing-footer .ft-width { min-width: 50%; }
+	.listing-footer .logo-light { text-align: center; }
+	.listing-footer .copywrite { justify-content: center; }
+	.listing-footer .ft-full-width { min-width: 100%; }
+	.listing-footer .news-ltr { padding-top: 4rem; text-align: center; }
+	footer.listing-footer .email-bx { padding-bottom: 50px; width: 50%; margin: 0 auto; }
+}
+
+@media screen and (max-width:1024px) {
+	.btn.btn-white { font-size: 11px; padding: 8px 12px; }
+	.nav-venue a.dropdown-toggle { margin-right: 7px; }
+
+
+	/*---------------------
+				  index Page CSS
+		-----------------------*/
+	.top-section h1 { font-size: 27px; }
+
+
+	/*------------------------------
+	  about us page CSS
+	-------------------------------*/
+	.testimonial-slider .owl-carousel.testimonial-carousel.owl-loaded.owl-drag { margin-left: 3%; }
+	.testimonial-slider .owl-carousel .owl-nav { left: 72.5%; }
+	.dropdown.user-dropdown { padding: 0 10px; }
+	/*---------------------
+			  navbar CSS
+	-----------------------*/
+	.top-nav .menu-large a.green { font-size: 14px; }
+	.navbar-dark .navbar-nav .nav-link { font-size: 13px; }
+	.btn-filled { font-size: 11px; }
+	.fix-search .nav-search .search-bar .form-control { padding: 17px 40px 17px 10px; font-size: 13px; background-size: 13px; background-position: right 12px center; }
+
+	/*---------------------
+	 nav venue dropdown CSS
+	-----------------------*/
+	.nav-venue a.dropdown-toggle { font-size: 12px; margin-right: 15px; }
+
+	/*---------------------
+	  listing Page CSS
+	-----------------------*/
+	.listing .filter .filter-btn a.filter-tab { font-size: 12px; }
+	.listing .filter .custom-control-label { font-size: 12px; }
+	.listing .filter .custom-control-label span.light { font-size: 11px; }
+	.listing .filter .more a { font-size: 11px; }
+	.listing .reset-btn .btn-white { font-size: 12px; }
+
+	/*---------------------
+		  gallery-modal css
+		-----------------------*/
+	.gallery-view .carousel { width: 70%; }
+	.gallery-view .carousel-control-next { right: -18%; top: 32%; }
+	.gallery-view .carousel-control-prev { left: -18%; top: 32%; }
+	/*.gallery-view .carousel-thumbnails .carousel-indicators li { height: 60px; }*/
+
+
+	/*------------------------------
+	  cookie popup CSS
+	-------------------------------*/
+	.cookie-popup { flex-direction: column; }
+	.cookie-popup h5 { padding-right: 0; margin-right: 0; border-right: 0; padding-bottom: 12px; }
+	.cookie-popup .accept-btn { padding-right: 10px; }
+
+}
+
+@media screen and (max-width:991px) {
+
+	/*---------------------
+			  navbar CSS
+	-----------------------*/
+	.btn.btn-white { font-size: 10px; padding: 8px 10px; }
+	.navbar-expand-lg.navbar-dark .navbar-nav li.nav-item { padding: 0.5rem 0 4px; }
+	.top-nav .menu-large a.green { font-size: 14px; margin-right: 5PX; }
+	.navbar-expand-lg.navbar-dark .navbar-nav .nav-link { padding-right: 5px; padding-left: 5px; font-size: 13px; }
+	.form-inline .btn-filled { margin: 0 5px; font-size: 10px; padding: 8px 12px; }
+	.top-nav .user-dropdown a.dropdown-toggle { font-size: 13px; }
+	.top-nav .user-dropdown .user-img { padding-right: 5px; }
+	.top-nav .dropdown.user-dropdown { padding: 0 5px; }
+
+
+
+
+	/*---------------------
+		navbar CSS
+	-----------------------*/
+
+	/*.navbar-dark .navbar-toggler { flex-grow: 0; text-align: left; width: 30%; }*/
+	.openbtn { flex-grow: 0; text-align: left; width: 40%; }
+	.navbar-brand.logo { width: 20%; flex-grow: 0; text-align: center; }
+	.navbar-brand.logo img { max-width: 82px; }
+	.navbar { padding: 0 13px; }
+	.top-nav .menu-large a.green { padding-right: 0; }
+	.navbar-collapse { background-color: #ffffff; padding: 20px; }
+	nav.top-nav { height: 56px; }
+	main.wrapper { margin-top: 56px; }
+	.dropdown.menu-large.nav-item { width: 40%; text-align: right; }
+
+	
+
+	/*---------------------
+	  mobile nav sidebar CSS
+	-----------------------*/
+	.sidepanel .profile { text-align: center; padding: 20px 15px 0 15px; }
+	.sidepanel .profile img { border-radius: 50%; width: 88px; border: 1px solid #ededee; }
+	.sidepanel h4 { font-family: "Montserrat-Bold"; font-size: 16px; text-transform: uppercase; color: #4b4b4b; text-align: center; padding-bottom: 2px; padding-top: 20px; }
+	.sidepanel p { font-family: "Montserrat-SemiBold"; font-size: 12px; text-align: center; color: #33988d; }
+	.sidepanel .side-btn { text-align: center; margin-bottom: 15px; padding: 0 15px; margin-top: 25px; }
+	.sidepanel .side-btn  .btn.btn-white { width: 100%; }
+	.sidepanel .side-menu-link { border-radius: 14px; border: solid 1px #ededee; background-color: #f9f9f9; margin: 30px 15px 0; }
+	.sidepanel .side-btn .btn.btn-filled { font-size: 12px; padding: 8px 10px; width: 100%; }
+	.side-btn.mb-signin-btn { margin-top: 5px; margin-bottom: 15px; }
+	.navbar-expand-lg.navbar-dark .side-menu-link .navbar-nav .nav-item .nav-link { font-family: "Montserrat-Bold"; font-size: 14px; padding: 20px 0; color: #424242; }
+	.navbar-expand-lg.navbar-dark .navbar-nav li.nav-item { padding: 0 15px; }
+	.navbar-expand-lg.navbar-dark .side-menu-link .navbar-nav .nav-item:last-child  .nav-link { border-bottom: 0; }
+	.navbar-dark .navbar-nav .nav-link { border-bottom: 1px solid #efefef; }
+	.sidepanel { width: 0; position: fixed; z-index: 1; height: 100%; top: 0; left: 0; background-color: #ffffff; overflow-x: hidden; transition: 0.2s; padding: 24px 0; box-shadow: 6px 9px 20px 0px rgba(0, 0, 0, 0.1); }
+	.top-nav .sidepanel .closebtn { position: absolute; top: 15px; right: 15px; }
+	.top-nav .openbtn { display: block; background-color: transparent; border: 0; }
+	.btn.btn-white { font-size: 12px; padding: 8px 10px; }
+	.add-listing-popup.modal .modal-header .close { margin-bottom: 15px; }
+
+
+
+	/*---------------------
+	  Nav dropdown menu  CSS
+	-----------------------*/
+	.top-nav .location-menu.dropdown-menu { border-radius: 0; border: solid 1px #e6e6e6; width: 100%; margin: 0 auto 0 auto; }
+	.top-nav .location-menu .btn.btn-white { margin-right: 8px; margin-bottom: 8px; }
+
+
+		/*---------------------
+		 nav venue dropdown CSS
+		-----------------------*/
+	.dropdown.nav-venue.d-lg-none.d-md-block { text-align: center; margin: 20px 15px; }
+	.nav-venue a.dropdown-toggle { margin-right: 0; }
+	.nav-venue .dropdown-menu .dropdown-item { font-size: 12px; }
+	.nav-venue .user-dropdown .user-img { padding-right: 6px; }
+	.nav-venue .dropdown.user-dropdown { padding: 0 5px; }
+	.nav-venue .user-dropdown .user-img img { width: 37px !important; }
+	/*---------------------
+			  comingsoon CSS
+	-----------------------*/
+	.coming-soon-wrap { background-image: url(../img/bg-ipad.png); }
+	h1 { font-size: 44px; }
+	.comingsoon .content p { width: 77%; }
+	.comingsoon .amenities { padding: 0 0; }
+
+
+	/*---------------------
+		  search bar enable after scroll
+	-----------------------*/
+	.fix-search .nav-search { display: none; }
+
+	/*---------------------
+			  index Page CSS
+	-----------------------*/
+	.index-wrap .top-section { padding: 60px 0; }
+	.top-section h1 { font-size: 23px; }
+	.trend-left li { padding: 14px 10px 14px 0px; }
+	.trend-left li.tag { font-size: 14px; }
+	.trend-left li h5 { line-height: 1.6; }
+	.trend-left li p { font-size: 11px; }
+	.trend-right .inside { padding: 20px 10px; }
+	.restaurant .restro-item { width: 162px; }
+	.top-section .amenities { width: 100%; }
+	.top-section .content { padding-top: 0; }
+	.top-section .search-bar { width: 75%; }
+
+	/*.trend-right .box { min-height: 240px; }*/
+	.restaurant .bottom-center { bottom: 10px; font-size: 12px; }
+	.category ul li { padding-right: 10px; }
+	.category ul li a { font-size: 15px; }
+	.category ul li.active a { font-size: 20px; }
+	.category .inside { padding: 15px 14px; }
+	.category .inside h5 { font-size: 14px; height: 40px; }
+	footer .logo-light img { width: 130px; }
+	footer .copywrite a { font-size: 11px; }
+	footer h5.title { font-size: 14px; }
+	footer .link-list ul li a { font-size: 11px; }
+	footer .email-bx .form-control { font-size: 11px; padding: 20px 20px; }
+	footer .btn-filled { font-size: 14px; padding: 5px 15px; }
+	footer .email-bx { padding-bottom: 30px; }
+	footer .social-links a { margin: 0 2px; }
+
+	/*---------------------
+	  Detail Page CSS
+		-----------------------*/
+	.detail-slider .carousel-control-prev { left: 10rem; }
+	.detail-slider .carousel-control-next { right: 10rem; }
+	.detail-wrap .info.rating { margin-bottom: 20px; }
+	.overview .about-tab { padding: 20px 0; }
+	.overview .dtl-left { padding: 20px 0; }
+	.overview .dtl-left .address { font-size: 12px; }
+	.overview .dtl-right { padding: 20px 0; }
+	.overview .dtl-right .contact { padding-bottom: 17px; text-align: left; }
+	.overview .dtl-right .contact .btn.btn-filled { width: 9rem; margin-bottom: 12px; }
+	.overview .dtl-right button.btn.btn-filled.mr-3 { margin-right: 8px !important; }
+	.overview .feature { padding: 20px 0; }
+	.overview .feature .list { flex-direction: column; }
+	.overview .feature .list ul li span.icon { font-size: 15px; padding-right: 5px; }
+	.overview .feature .list ul li { font-size: 13px; }
+	.review-tab { padding: 30px 10px; }
+	.review-tab .rw-box { padding: 20px 15px; }
+	.review-tab .rev-text h5 { font-size: 19px; }
+	.comments-tab .like { flex-direction: column; align-items: flex-start; }
+	.comments-tab .useful { padding-bottom: 20px; }
+	.faq-tab .faq_detail { padding-top: 35px; padding-bottom: 20px; }
+	/*---------------------
+	  listing Page CSS
+	-----------------------*/
+	.listing .dark .inr-bx h4 { font-size: 16px; }
+	.listing .dark .inr-bx.disable p.tag, .listing .dark .inr-bx.disable p.tag { font-size: 11px; }
+	.listing .map-overlay p { font-size: 12px; }
+	.listing .map-overlay .btn-filled { font-size: 11px; }
+	.listing .star-lbl { top: 10px; right: 10px; }
+	.listing .info { padding: 30px 10px 20px 10px; }
+	.listing .info h4 { font-size: 13px; }
+	.listing .place-info { flex-direction: column; }
+	.listing .loc { padding-right: 0; padding-bottom: 10px; }
+	.listing .filter .filter-btn span.hide-tab { display: none; }
+	.listing .filter .filter-btn a.filter-tab { padding: 0 0px 0 2px; width: 32px; height: 32px; text-align: center; line-height: 30px; display: block; margin-right: 10px; }
+	.listing .filter .filter-btn span.filter-icon { padding-right: 0; }
+	.listing .middle-content .map-details .filter .filter-btn .listing-toggle { padding: 0 0px 0 1px; width: 32px; height: 32px; text-align: center; line-height: 30px; display: block; }
+	.listing .middle-content .map-details { padding-top: 0px; }
+	.listing .middle-content .map-details .filter { padding: 5px 10px; margin-bottom: 8px; }
+	.listing .middle-content .map-details .listing-card { padding-top: 20px; }
+	.listing .filter .filter-collapse { top: 42px; }
+	.listing-wrap .ds-vw { display: none; }
+	.listing-wrap .mb-vw { display: block; margin: 30px 5px 26px 5px; text-align: center; }
+	.listing .selected-filter ul { text-align: left; }
+	.listing .selected-filter { padding: 5px 10px 5px; }
+	.listing .reset-tab.mb-vw { text-align: left; padding: 0 15px; margin-bottom: 2px; margin-top: 0; }
+	body.listing-wrap { overflow-y: scroll; margin-top: 56px !important; }
+	.listing-footer .ft-width { min-width: auto; }
+	.listing-footer .logo-light { text-align: left; }
+	.listing-footer .copywrite { justify-content: left; }
+	.listing-footer .ft-full-width { min-width: auto; }
+	.listing-footer .news-ltr { padding-top: 0; text-align: left; }
+	footer.listing-footer .email-bx { padding-bottom: 50px; width: 100%; margin: 0 auto; }
+	.listing .middle-content .map-details .filter .search-bar .form-control { background-position: left 0px center; border-radius: 0; border: transparent; padding: 10px 5px 10px 20px; }
+	.listing .middle-content .map-details .listing-card.listing-hide { display: none; }
+	.listing .middle-content .map-sec { position: absolute; top: 13rem; left: 0; width: 100%; height: 100%; display: block; }
+	.listing .middle-content .map-sec.map-hide { display: none; }
+
+	/*---------------------
+	  venue detail Page CSS
+	-----------------------*/
+	.venue-img .view-photo-btn .btn { padding: 8px 16px; font-size: 12px; }
+	.venue-img .view-photo-btn { right: 10px; bottom: 10px; }
+ 	.detail-wrap .tag-rgt span.hide { display: none; }
+ 	.detail-wrap .tag-rgt .btn.btn-white .fa,  .detail-wrap .tag-rgt .btn.btn-filled .fa { font-size: 18px; padding-right: 0; width: 20px; text-align: center;}
+ 	.detail-wrap .tag-rgt .btn.btn-white , .detail-wrap .tag-rgt .btn.btn-filled { padding: 10px 14px 8px; }
+
+
+	/*------------------------------
+	  listing event detail Page CSS
+	-------------------------------*/
+	.listing-event .sticky { position: relative; }
+	.listing-event .abs { position: relative; }
+	.listing-event .tag-left h1 { padding-right: 0; }
+	.listing-event .event-lable { padding: 10px; }
+	.listing-event .lable-tags h5 { font-size: 10px; }
+	.listing-event .lable-tags h4 { font-size: 12px; }
+	.listing-event .event-lable .more-link { font-size: 10px; }
+	.listing-event .event-desc p { font-size: 12px; }
+	.listing-event h3 { font-size: 16px; }
+
+
+	/*------------------------------
+	  about us page CSS
+	-------------------------------*/
+
+	.about-us .info-img { text-align: center; }
+	.about-us .info-img img { width: 70%; }
+	.about-us .info-img:after { position: absolute; content: ""; bottom: -27px; left: 75px; }
+	.about-us .about-us-info { margin-bottom: 0; }
+	.about-us .our-mission .info-img { text-align: center; }
+	.about-us .our-mission .info-img:before { position: absolute; content: ""; bottom: -27px; left: 75px; }
+	.about-us .box-img { margin-bottom: 20px; }
+	.about-us .our-mission { padding: 6rem 0 0; }
+	.about-us { padding: 5rem 0 0; }
+	.testimonial-slider .owl-carousel.testimonial-carousel.owl-loaded.owl-drag { margin-left: 0; }
+	.testimonial-slider .box { margin: 64px 150px 40px 150px; }
+	.testimonial-slider .box .msg { height: 120px; }
+	.testimonial-slider .owl-nav { text-align: center; }
+	.testimonial-slider .owl-carousel .owl-nav button.owl-next, .testimonial-slider .owl-carousel .owl-nav button.owl-prev { padding: 0 10px !important; }
+
+
+
+	/*------------------------------
+	  contact us page CSS
+	-------------------------------*/
+	.contact-us .contact-form h1 { font-size: 24px; padding-bottom: 10px; }
+	.contact-us .contact-form { padding: 0 20px; width: 100%; }
+	.contact-us .contact-form h2 { font-size: 14px; }
+	.contact-us .form-submit .captcha img { width: 142px; }
+	.contact-us .contact-form .btn.btn-yellow { padding: 8px 14px; font-size: 11px; }
+	.contact-us .contact-card a.link, .contact-us .contact-card h5 { font-size: 13px; }
+	.contact-us .contact-detail { padding: 28px; }
+
+	/*------------------------------
+	  blog page CSS
+	-------------------------------*/
+	.blog .carousel-caption.text-left { margin: 0 auto; padding: 20px 30px; left: 0; bottom: 4rem; right: 0; min-height: 200px; }
+	.blog .carousel-caption h4 { font-size: 20px; }
+	.blog .multi-blogs { padding: 60px 0 60px; }
+	.blog .sub-blogs .post-title { font-size: 16px; min-height: 60px; }
+	.blog .owl-nav { right: 0; bottom: 0; left: 0; text-align: center; }
+	.right-panel .subscribe-btn .btn { width: 40%; }
+
+	/*------------------------------
+	 help page CSS
+	-------------------------------*/
+	.help-wrap .help-link { margin-bottom: 30px; }
+
+	/*------------------------------
+	  user profile page CSS
+	-------------------------------*/
+	.profile-tabs .detail-tabs .nav-tabs { overflow-x: scroll; overflow-y: hidden; flex-wrap: nowrap; }
+	.profile-tabs .detail-tabs .nav-tabs .nav-link { min-width: 11rem; }
+	.profile-tabs .detail-tabs .nav-tabs::-webkit-scrollbar { width: 100%; height: 3px; }
+	.profile-tabs .detail-tabs .nav-tabs.scrollbar { width: 100%; padding: 0 !important; }
+	.profile-wrap .venue-top { background-position: right -15rem center; }
+	.notification-tab .notification-list .sub-list h5 { font-size: 14px; }
+	.notification-tab .notification-list .sub-list .list-text p { font-size: 11px; }
+	.bookmark-tab .bookmark-icon { top: 10px; left: 10px; }
+	.location-card .star-lbl { top: 10px; right: 10px; font-size: 11px; padding: 4px 8px; }
+	.location-card .star-lbl i.fa.fa-star { font-size: 10px; padding-right: 5px; }
+	.bookmark-tab .bookmark-icon { width: 22px; height: 22px; line-height: 24px; font-size: 11px; }
+	.reviews-tab .rw-msg p { font-size: 12px; }
+	.reviews-tab .rw-time { font-size: 12px; }
+	.reviews-tab .rw-button .btn { font-size: 11px; }
+	.reviews-tab .usr-star span { font-size: 14px; }
+
+
+	/*------------------------------
+	  landing page CSS
+	-------------------------------*/
+	.landing-page.top-wrap .venue-top { padding: 40px 0 11rem; }
+	.landing-page .tag-left { padding-bottom: 20px; }
+	.landing-wrap { margin-top: -9rem; }
+
+	/*------------------------------
+	  function venue Page CSS
+	-------------------------------*/
+	.venue-search-wrap { width: 90%; }
+	.inner-form.function-search { padding: 0 60px 0 20px; }
+	.function-search .second-wrap { min-width: 120px; max-width: 120px; }
+	.function-search .input-field .form-control { font-size: 14px; }
+	.function-search .input-field { margin-right: 8px; padding-right: 8px; }
+	.function-search .venue-type-menu .dropdown-item { font-size: 13px; }
+	.function-search .function-venue .dropdown-menu { right: 4rem !important; }
+
+	/* new landing page */
+	.feedback_carousel .owl-dots { position: relative; top: 0; }
+
+}
+
+@media screen and (max-width:767px) {
+
+
+		/*--------------------------
+	     add your listing popup CSS
+		---------------------------*/
+	.add-listing-popup .modal-header h5 { font-size: 15px; }
+	.add-listing-popup .select-category label { font-size: 13px; padding: 14px 5px; }
+	.add-listing-popup .feature-box h4 { font-size: 14px; }
+	.add-listing-popup .modal-body { padding: 0 15px 8px 15px; }
+	.add-listing-popup .feature-box { padding: 30px 10px; margin-bottom: 24px; }
+	/*---------------------
+		  comingsoon CSS
+	-----------------------*/
+	.comingsoon .logo { text-align: left; margin-top: -20px; margin-bottom: 38px; }
+	.comingsoon .logo img { max-width: 140px; }
+	.comingsoon .content h4 { font-size: 18px; }
+	.comingsoon .content h1 { line-height: 1.33; font-size: 30px; padding-bottom: 24px; }
+	.comingsoon .content p { line-height: 1.71; font-size: 14px; width: 70%; }
+	.comingsoon .notify { width: 100%; }
+	.comingsoon .amenities .icon { padding-bottom: 20px; }
+	.comingsoon .amenities .inr-bx { margin-bottom: 30px; }
+	.comingsoon .content p { line-height: 1.5; }
+	.coming-soon-wrap .contact-btn { text-align: right; margin-bottom: -30px; }
+	.comingsoon .notify .btn-filled { font-size: 14px; padding-left: 20px; padding-right: 20px; }
+	.comingsoon .pd-0 { width: 33.33%; }
+	.comingsoon .amenities h4 { font-size: 14px; }
+	.coming-soon-wrap .btn-filled { font-size: 12px; }
+	.comingsoon .notify .btn-filled { font-size: 12px; }
+	.comingsoon .amenities .disable p { font-size: 10px; }
+
+	
+
+	/*---------------------
+			  index Page CSS
+	-----------------------*/
+	.index-wrap .top-section { height: 360px; }
+	.function-venue-wrap .top-section h1 { width: 76%; }
+	.top-section .search-bar .search-content { top: 55px; }
+	.top-section h1 { font-size: 16px; width: 70%; margin: 0 auto; padding-bottom: 32px; line-height: 24px; }
+	.top-section .search-bar { width: 85%; }
+	.top-section .search-bar .form-control { padding: 14px 78px 14px 20px; font-size: 14px; }
+	.top-section .input-field .btn-search { width: 50px; }
+	.top-section .amenities h4 { font-size: 14px; }
+	.section-header { font-size: 22px; padding-bottom: 30px; text-align: center; line-height: 1.2; }
+	.section { padding: 30px 0; }
+	.trend-left li.tag { font-size: 16px; }
+	.trend-left li p { font-size: 12px; }
+	.trend-left li h5 { font-size: 14px; padding-bottom: 0; }
+	.trend-left { padding-bottom: 24px; }
+	.trend-right .inside h5 { font-size: 14px; }
+	.trend-right .inside p { font-size: 12px; }
+	.home-page .owl-dots { align-items: center; justify-content: center; display: flex; width: 100%; }
+	.home-page .owl-dots span { width: 10px; height: 10px; border: solid 1px #c9c9c9; background-color: #ffffff; border-radius: 50%; margin: 0 3px; display: flex; }
+	.home-page .owl-dots .owl-dot.active span { background-color: #33988d; box-shadow: 0 0 40px 3px #f6f6f6; border: solid 1px #429f94; }
+	.info-box { margin-bottom: 30px; }
+	.restaurant .restro-item { width: 100%; margin: 0 auto 30px; }
+	.restaurant .bottom-center { font-size: 14px; }
+	.category .inside h5 { font-size: 14px; height: 65px; -webkit-line-clamp: 3;}
+	.category .inside p { font-size: 12px; height: 70px; }
+	.category .more a { display: none; }
+	.category ul li { padding: 0 1px; }
+	.category ul li a { font-size: 12px; }
+	.category ul li.active a { font-size: 16px; }
+	footer h5.title { font-size: 18px; }
+	footer .link-list ul li a { font-size: 13px; }
+	footer .link-list { padding-bottom: 30px; }
+	footer .social-links a { margin: 0 10px; }
+	footer .social-links { display: flex; justify-content: center; margin-bottom: 30px; }
+	.copywrite.d-flex.d-md-none { justify-content: center; }
+	footer .copywrite a { font-size: 12px; }
+
+	/*---------------------
+	  Detail Page CSS
+		-----------------------*/
+	.detail-wrap .dark-menu ul.breadcrumb li, .detail-wrap .tag-left p { font-size: 10px; }
+	.detail-wrap .tag-left h1 { font-size: 22px; }
+	.detail-slider .carousel-control-prev { left: 2rem; }
+	.detail-slider .carousel-control-next { right: 2rem; }
+	.detail-tabs .nav-tabs .nav-link { font-size: 10px; padding: 14px 0 22px }
+	.overview h3 { font-size: 15px; padding-bottom: 10px;}
+	.overview .about-tab p { font-size: 13px; margin-bottom: 15px; }
+	.overview .about-tab p a { font-size: 13px; }
+	.overview .certificate h6 { font-size: 13px; }
+	.overview .about-tab { padding: 20px 0 10px; }
+	.overview .about-tab .event-types { flex-direction: column; }
+	.overview .about-tab .event { margin-right: 0; margin-bottom: 10px; }
+	.overview  .dtl-left { padding: 20px 0 0; }
+	.overview .dtl-right .contact .btn.btn-filled { font-size: 11px; }
+	.overview .dtl-right .note { padding-bottom: 15px; }
+	.overview .social-links { margin-bottom: 15px; }
+	.overview .feature .list { flex-direction: column; }
+	.overview .feature .list ul li span.icon { padding-right: 15px; }
+	.overview .dtl-left .map-tag { font-size: 10px; }
+	.overview .feature .more a { font-size: 11px; }
+	.write-review { padding: 20px; margin-bottom: 30px; }
+	.write-review h5 { font-size: 18px; padding-bottom: 15px; }
+	.write-review .review .form-control { font-size: 10px; width: 100%; margin-bottom: 15px; }
+	.write-review .review .btn-filled { border-radius: 4px; padding: 15px 20px; }
+	.write-review .review .input-group { flex-direction: row-reverse; }
+	.write-review .review-dtl { flex-direction: column; }
+	.write-review .usr-img img { width: 72px; }
+	.write-review .rw-rate { align-items: flex-start; }
+	.detail-tabs { margin-bottom: 30px; }
+	.comments-tab { padding: 0 15px 15px; margin-bottom: 30px; }
+	.comments-tab .nav-tabs .nav-link { font-size: 12px; padding: 15px 0 12px; margin: 0 12px; }
+	.comments-tab .tab-content { padding: 15px; }
+	.comments-tab .usr-nm h5 { font-size: 16px; }
+	.comments-tab .name { flex-direction: column; }
+	.comments-tab .profile-info p { margin-bottom: 0px; }
+	.comments-tab .profile-pic { width: 30rem; margin-right: 0px; margin-bottom: 10px; }
+	.comments-tab .comment-box { flex-direction: column; }
+	.comments-tab .fd-img { margin-bottom: 20px; margin-top: 20px; }
+	.comments-tab .like { flex-direction: column; }
+	.comments-tab .useful .btn { margin-right: 10px; margin-bottom: 20px; }
+	.comments-tab .load-more { padding: 10px 10px 10px 10px; }
+	.comments-tab .comment-box { padding-bottom: 30px; margin-bottom: 10px; }
+	.comments-tab .more-img a { font-size: 12px; }
+	.event-tab .date-time { font-size: 12px; }
+	.event-tab .date { padding-right: 10px; }
+	.event-tab .date-time .fa { font-size: 14px; padding-right: 8px; }
+	.event-tab .event-img {  border-radius: 5px 5px 0 0; }
+	.event-tab .event-img img{  border-radius: 5px 5px 0 0; }
+	.event-tab .event-info { padding: 20px; }
+	.photos-tab .photos { padding: 20px 20px 0; }
+	.photos-tab .more-img { font-size: 12px; }
+	.photos-tab .more-img a { font-size: 12px; }
+	.photos-tab .img-box { margin-bottom: 20px; }
+	.review-tab { padding: 0px; }
+	.review-tab .rw-box { background-color: #ffffff; padding: 20px 10px; }
+	.review-tab .rev-text h5 { font-size: 16px; padding-bottom: 20px; }
+	.review-tab p.rate-text { font-size: 13px; }
+	.review-tab .all-rev a { font-size: 14px; }
+	.review-tab .all-rev { margin-bottom: 20px; }
+	.review-tab .pb-icon { width: 30px; margin-right: 10px; }
+	.review-tab .pb-star { font-size: 12px; padding: 10px 0; }
+	.review-tab .pn-bar { width: 60%; }
+	.review-tab .pb-label { font-size: 10px; }
+	.menu-tab .sub-list ul li, .menu-tab .sub-list .food-info h5 { font-size: 13px; }
+	.menu-tab ul#menuTab { flex-direction: row; }
+	.menu-tab .nav-item a.nav-link { font-size: 13px; }
+	.menu-tab p.sub-menu { font-size: 11px; padding: 6px 10px; line-height: 1; }
+	.menu-tab .nav-pills .nav-link.active, .menu-tab .nav-pills .show>.nav-link { border-right: 0; border-bottom: 4px solid }
+	.menu-tab .nav-item a.nav-link { border-right: 0; border-radius: 0; border-bottom: 4px solid transparent; padding: 15px 7px; }
+	.menu-tab .tab-content h2 { font-size: 18px; }
+	.menu-tab p.sub-menu { display: none; }
+	.menu-tab li.nav-item { padding-bottom: 0; width: 50%; text-align: center; }
+	.menu-tab ul#menuTab { padding: 10px 0; }
+	.menu-tab .tab-content { padding: 0; }
+	/*.menu-tab .sub-list .food-img { width: 100%; }*/
+	.detail-wrap .rate-info { padding-top: 30px; padding-bottom: 10px; }
+	.detail-wrap .info h5 { font-size: 13px; }
+	.detail-wrap .info.rating h5 { font-size: 18px; }
+	.detail-wrap .info p { font-size: 12px; }
+	.detail-wrap button.btn.dropdown-toggle { font-size: 13px; }
+	.detail-wrap .info { margin-right: 12px; width: 40%; margin-bottom: 20px; vertical-align: text-top; }
+	.detail-wrap .rate-info .dropdown-item { padding: 5px 11px; font-size: 12px; }
+	.detail-slider .carousel-indicators li { width: 38px; height: 48px; padding-bottom: 0; }
+	.detail-slider .carousel-control-next, .detail-slider .carousel-control-prev { bottom: 27px; }
+	.detail-slider .carousel-item img { max-width: inherit; max-height: 170px; }
+	.nav-scroll{ overflow-x: scroll;overflow-y: hidden; }
+	.nav-scroll .nav-item{ min-width: 80px; }
+	.nav-scroll::-webkit-scrollbar { height: 3px; }
+	.faq-tab .card-header.collapsed h5 { font-size: 14px; line-height: 20px; }
+	.faq-tab .card-body p { font-size: 12px; }
+	.faq-tab .card-header h5 { font-size: 15px; }
+	.faq-tab .card-header { padding: 14px 15px; }
+	.faq-tab .faq_detail { padding-top: 15px; padding-bottom: 0px; }
+	.faq-tab .card { margin-bottom: 20px; }
+
+
+	.detail-wrap .react-multi-carousel-track img.react-carousel-image{height:250px;}
+	/*---------------------
+	  listing Page CSS
+	-----------------------*/
+
+	/*.listing .dark .inr-bx h4 { font-size: 12px; }
+	.listing .dark .inr-bx.disable p.tag, .listing .dark .inr-bx.disable p.tag { font-size: 10px; }
+	.listing .dark .inr-bx { border-right: 0; }
+	.listing .top-dark { padding: 15px 5px; }*/
+
+	/*.listing .search-bar .form-control { background-color: #ffffff; }*/
+	.listing .map-details { padding: 10px 0 10px; }
+	.listing .filter { margin-bottom: 5px; }
+	.listing .filter .filter-bx { padding: 20px 0px; }
+	.listing .filter .filter-bx { padding: 20px 0px 0; }
+	.listing .filter .filter-btn span.filter-icon { padding-right: 0; }
+	.listing .middle-content .map-sec { top: 11.2rem; }
+
+
+
+	/*---------------------
+	  custom scrollbar  CSS
+	-----------------------*/
+	.scrollbar { width: 97%; padding: 0 10px; }
+
+	/*---------------------
+	  unsubscribe page CSS
+	-----------------------*/
+	.unsubscribe.section { padding: 15px 0; }
+	.unsubscribe .outer-sec { width: 100%; }
+	.unsubscribe .top-sec { padding: 30px 10px; }
+	.unsubscribe .top-sec h2 { font-size: 26px; }
+	.unsubscribe .top-sec h6 { font-size: 12px; }
+	.unsubscribe .mid-sec { padding: 20px 20px; }
+	.unsubscribe .mid-sec p { font-size: 12px; }
+	.unsubscribe .mid-sec .form-control { font-size: 12px; }
+	.unsubscribe .mid-sec .btn.btn-filled { font-size: 14px; }
+
+	/*---------------------
+		  gallery-modal css
+		-----------------------*/
+	.gallery-view.modal .modal-content { padding: 15px; }
+	.gallery-view span.close-bg { padding: 8px; }
+	.gallery-view span.close-bg img { width: 10px; }
+	.gallery-view .carousel-control-next-icon, .gallery-view .carousel-control-prev-icon { width: 38px; height: 38px; background-size: 14px; }
+	/*.gallery-view .carousel-thumbnails .carousel-indicators li { height: 50px; }*/
+
+	/*---------------------
+	   top search content css
+	 -----------------------*/
+
+	.search-content .places { padding: 15px 15px 5px 15px; }
+	.search-content .input-wrap .options { padding: 15px 15px 10px; text-align: left; }
+	.top-section .search-content .options .btn.btn-white { font-size: 10px; padding: 6px 10px; }
+	.search-content .address .location h4 { font-size: 12px; }
+	.search-content .address .location h6 { font-size: 11px; }
+	.search-content .address { padding-bottom: 10px; margin-bottom: 10px; }
+	.search-content .trending h4 { font-size: 13px; }
+	.search-content .input-wrap .trending .options { padding: 5px 0 10px; }
+	.search-content .trending { padding: 0 15px 0px; }
+
+	/*---------------------
+	Mobile venue carousel css 
+	-----------------------*/
+	.venue-wrap-slider .carousel-indicators { bottom: 15px; }
+	.venue-wrap-slider .carousel-indicators li { background-clip: border-box; border-top: 0; border-bottom: 0; }
+	.venue-wrap-slider .carousel-control-next, .venue-wrap-slider .carousel-control-prev { bottom: 0; align-items: center; }
+
+
+
+	/*---------------------
+		 footer CSS
+		-----------------------*/
+	.footer { padding: 0 40px; }
+
+	/*------------------------------
+	  listing event detail Page CSS
+	-------------------------------*/
+	.listing-event .back{display: block;padding-bottom: 10px;}
+	.listing-event .dark-menu { display: none; }
+	.listing-event .tag-left h1 { font-size: 20px; line-height: 30px; padding: 0 5px; }
+	.listing-event .venue-top { padding: 20px 0 80px; }
+	.listing-event .listing-event-wrap { margin-top: -90px; }
+	.listing-event .event-desc .hide { display: none; }
+	.listing-event a.read-more-show { display: block; color: #33988d; font-size: 12px; line-height: 1.67; font-family: 'Montserrat-bold'; text-align: right; }
+	.listing-event a.read-more-hide { display: block; color: #33988d; font-size: 12px; line-height: 1.67; font-family: 'Montserrat-bold'; text-align: right; }
+	.listing-event .event-booking { margin-bottom: 25px; }
+	.category .info-box .pic img { width: 100%; }
+	.listing-event-detail { margin-top: 51px !important; }
+	.listing-event { margin-top: 56px; }
+
+
+
+
+	/*------------------------------
+	  about us page CSS
+	-------------------------------*/
+
+
+	.about-us-wrap .dark-menu ul.breadcrumb li a { color: rgba(56, 56, 56, 100); }
+	.top-wrap .dark-menu { padding-bottom: 0; }
+	.about-us-wrap .tag-left h1 { font-size: 34px; }
+	.about-us .info-img img { width: 85%; }
+	.about-us .info-img:after { position: absolute; content: ""; bottom: -18px; left: 7px; right: 0; width: 210px; height: 160px; }
+	.about-us .info-img { text-align: center; }
+	.about-us { padding: 3rem 0 0; }
+	.about-us .box-info h3 { font-size: 28px; padding-bottom: 20px; }
+	.about-us .box-text p { font-size: 13px; }
+	.about-us .my-5 { margin-bottom: 1rem !important; margin-top: 2rem !important; }
+	.about-us .our-mission .info-img { text-align: center; }
+	.about-us .our-mission .info-img:before { position: absolute; content: ""; bottom: -18px; left: 7px; right: 0; width: 210px; height: 160px; }
+	.about-us-wrap .venue-top { padding: 80px 0; }
+	.about-us .our-mission { padding: 2rem 0 0; }
+	.about-us .our-vision { margin: 2rem 0 0; }
+	.testimonials { padding: 1rem 0 6rem; background-color: #ffffff; }
+	.testimonials h3 { font-size: 28px; }
+	.testimonial-slider .box-slider { margin-top: 0; }
+	.testimonial-slider .owl-carousel .owl-item img { width: 70%; }
+	.testimonial-slider .box .quote-icon { top: -20px; right: 10px; }
+	.testimonial-slider .box .msg { font-size: 15px; }
+	.testimonial-slider .user-info h5 { font-size: 14px; }
+	.testimonial-slider .user-info h6 { font-size: 11px; }
+	.testimonial-slider .box { width: 80%; margin: 60px auto; }
+
+
+
+
+	/*------------------------------
+	  contact us page CSS
+	-------------------------------*/
+
+	.contact-us-wrap .contact-section { padding: 3rem 0; }
+	.contact-us { flex-direction: column; }
+	.contact-us .contact-form { padding: 30px; margin-bottom: 10px; }
+
+
+	/*------------------------------
+	  blog detail page CSS
+	-------------------------------*/
+	.blog-detail.top-wrap .dark-menu { padding-bottom: 10px; }
+	.blog-detail.top-wrap .tag-left h1 { font-size: 21px; line-height: 1.45; }
+	.blog-detail.top-wrap .venue-top { padding: 50px 0; background-color: #0b1025; }
+	.blog-detail .event-desc p { font-size: 12px; }
+	.blog-detail .blog-detail-wrap { padding: 30px 0; }
+	.blog-detail .highlight-text { font-size: 18px; padding: 5px 0 25px; background-position: top 0 left; }
+	.blog-detail .event-tabs { padding: 20px 10px; }
+	.blog-detail .event-tabs ul.event-title li { font-size: 12px; }
+	.blog-detail .share-blog { flex-direction: column; }
+	.blog-detail .share-blog .share-text { width: 100%; text-align: center; border-right: 0; border-radius: 4px 4px 0 0; }
+	.blog-detail .share-social { padding-left: 0; margin: 15px; }
+	.blog-detail .social-links a { margin: 0 10px; }
+	.right-panel .subscribe-box h5 { font-size: 15px; }
+	.right-panel .category-box h4 { padding-bottom: 10px; }
+	.blog-detail .post-carousel .post-title { font-size: 16px; padding-bottom: 10px; }
+	.blog-detail .blog-post { padding: 30px 0; }
+	.blog-detail .post-carousel .owl-dots { display: none; }
+	.blog-detail .leave-reply { padding: 30px 0 0 0; }
+	.blog-detail .name-group { flex-direction: column; }
+	.blog-detail .name-group .form-group { width: 100%; margin-bottom: 0; }
+	.blog-detail .reply-form .post-btn { text-align: center; }
+	.right-panel { margin-bottom: 40px; }
+
+
+	/*------------------------------
+	  blog page CSS
+	-------------------------------*/
+	.blog .sub-blogs .box { text-align: center; }
+	.blog .sub-blogs .post-title { min-height: 0; padding-bottom: 5px; }
+	.blog-pagination { padding-bottom: 30px; }
+	.pagination { justify-content: center !important; }
+	.right-panel .subscribe-btn .btn { width: 70%; }
+	.blog .blog-tabs .top-panel { flex-direction: column; }
+	.blog .multi-blogs { padding: 40px 0 0; }
+	.blog .blog-content { padding: 40px 0 10px; }
+	.blog .sub-blogs .box { padding-bottom: 30px; }
+	.blogs-link { padding-bottom: 15px; }
+	.blog .blog-tabs .blogs-link a { display: inline-block; margin-bottom: 10px; }
+	.blog .blog-tabs .blogs-link a:last-child { margin-right: 0; }
+	.blog-search { width: 100%; }
+	.blog .blog-tabs .blog-search .form-control { width: 100%; height: 40px; }
+	.blog .carousel-caption.text-left { padding: 15px; left: 0; bottom: 0; right: 0; border: 1px solid #efefef; width: 100%; box-shadow: none; }
+	.blog .owl-item .item { overflow: hidden; }
+	.blog .owl-nav { position: relative; padding-top: 15px; }
+	.blog-slider .owl-carousel .owl-item img{ height: 238px; object-fit: cover;}
+
+	/*------------------------------
+	  user profile page CSS
+	-------------------------------*/
+	.profile-wrap .profile-tabs { padding: 40px 0; }
+	.notification-tab { padding: 20px 10px; }
+	.notification-tab .notification-list .sub-list h5 { font-size: 12px; line-height: 17px; }
+	.notification-tab .notification-list .sub-list .list-text p { font-size: 10px; }
+	.bookmark-tab { padding: 20px; }
+	.bookmark-tab .location-card .info h4 { font-size: 12px; }
+	.reviews-tab { padding: 20px 10px; }
+	.reviews-tab .usr-star { padding-right: 8px; }
+	.reviews-tab .rw-button .btn { margin-left: 1px; }
+	.reviews-tab .rw-button .btn { padding: 3px 6px; margin-left: 5px; }
+	.reviews-tab .rw-button .btn:first-child { margin-left: 0; }
+	.reviews-tab span.icon img { max-width: 13px; }
+	.reviews-tab .rw-update { padding-bottom: 10px; }
+	.reviews-tab .review-box { padding-bottom: 15px; margin-bottom: 15px; }
+	.setting-tab { padding: 20px 5px; }
+	.setting-tab .form-group { margin-bottom: 1.3rem; }
+	.setting-tab h1 { font-size: 24px; }
+
+
+	/*------------------------------
+	  Terms & Conditions page CSS
+	-------------------------------*/
+	.terms-wrap { padding: 30px 0; }
+	.terms-wrap .middle-content p { font-size: 12px; padding-bottom: 20px; }
+	.terms-wrap .middle-content h4 { font-size: 14px; padding-bottom: 5px; }
+	.terms-wrap .list-content li { font-size: 12px; padding: 0 0 20px 25px; }
+	.terms-page.top-wrap .tag-left h1 { font-size: 24px; }
+	.terms-page.top-wrap .venue-top { padding: 40px 0; background-color: #0b1025; }
+	.terms-page.top-wrap .dark-menu ul.breadcrumb li { font-size: 12px; }
+
+	/*------------------------------
+	 help page CSS
+	-------------------------------*/
+	.help-page.top-wrap .venue-top { padding: 40px 0; }
+	.help-page.top-wrap .tag-left h1 { font-size: 24px; }
+	.help-page.top-wrap .dark-menu ul.breadcrumb li { font-size: 12px; }
+	.help-wrap { padding: 15px 0; }
+	.help-wrap .faq-wrap { padding: 15px 15px;margin-bottom: 15px; }
+	.help-wrap .faq-wrap h4 { font-size: 16px; padding-bottom: 15px; }
+	.faq-accrodian .card-header { padding: 10px; }
+	.faq-accrodian .card-header h5 { font-size: 12px; line-height: 20px; }
+	.faq-accrodian .card-header.active h5 { font-size: 13px; }
+	.faq-accrodian .card-body { padding: 0 10px 10px 10px; }
+	.faq-accrodian .card-body p { font-size: 12px; }
+	.help-wrap .help-link { padding: 15px; flex-direction: column; margin-bottom: 15px; }
+	.help-wrap .help-link h3 { font-size: 18px; padding-bottom: 10px; }
+	.help-wrap .contact-btn .btn-filled { padding: 10px 20px; font-size: 11px; }
+	.help-wrap .contact-detail { padding: 20px; }
+	.help-wrap .contact-detail h4 { font-size: 16px; padding-bottom: 15px; }
+	.help-wrap .contact-card { margin-bottom: 15px; }
+	.help-wrap .contact-card a.link, .help-wrap .contact-card h5 { font-size: 13px; }
+
+
+
+	/*------------------------------
+	  landing page CSS
+	-------------------------------*/
+	.landing-page .landing-top { display: flex; justify-content: space-between; }
+	.landing-page .mb-vw { display: block; }
+	.landing-page .ds-vw { display: none; }
+	.landing-page.top-wrap .tag-left h1 { font-size: 20px; }
+	.landing-page .tag-left h6 { font-size: 12px; }
+	.landing-page .share-icon { display: flex; align-items: center; justify-content: center; }
+	.landing-page .share-icon a.btn { padding: 0; width: 32px; height: 32px; line-height: 29px; text-align: center; cursor: pointer; }
+	.landing-page .share-icon a.btn:first-child { margin-right: 8px; }
+	.landing-page .share-icon a.btn img { max-width: 22px; }
+	.landing-page.top-wrap .venue-top { padding: 40px 0 9rem; }
+	.landing-wrap .landing-banner h5 { font-size: 12px; padding-bottom: 12px; }
+	.location-card { margin-bottom: 20px; }
+	.location-card .info h4 { font-size: 14px; }
+	.location-card .info h5 { font-size: 11px; }
+	.location-card .star-lbl { font-size: 11px; top: 12px; right: 12px; }
+	.location-card .star-lbl i.fa.fa-star { font-size: 11px; padding-right: 5px; }
+	.location-card .place-info { font-size: 11px; }
+	.landing-wrap .load-more a { font-size: 12px; }
+	.landing-wrap { margin-bottom: 2rem; }
+
+	/*------------------------------
+	  function venue Page CSS
+	-------------------------------*/
+	.inner-form.function-search { padding: 0; flex-direction: column; border-radius: 16px; }
+	.function-search .btn-search { position: relative; width: 100%; padding: 20px; border-radius: 0 0 16px 16px; }
+	.function-search .first-wrap:before, .function-search .second-wrap:before { display: none; }
+	.function-search .input-field { margin-right: 0; padding-right: 20px; padding-left: 20px; border-bottom: 1px solid #f0f0f0; width: 100%; }
+	.function-search .second-wrap { min-width: 100%; max-width: 100px; }
+	.function-search .third-wrap { min-width: 100%; max-width: 190px; }
+	.venue-search-wrap { width: 90%; }
+	.function-search .first-wrap, .function-search .third-wrap { padding: 18px 20px; }
+	.function-search .input-field.second-wrap { padding: 14px 20px; }
+	.function-search .btn-search span.search-text.mb-vw { display: flex; font-family: 'Montserrat-medium'; font-size: 14px; text-transform: uppercase; color: #ffffff; }
+	.function-search .btn-search img { display: none; }
+	.index-wrap .function-venue-wrap .top-section { min-height: 600px; background-size: 100%; background-position: top center; }
+	.function-venue-wrap .search-content { top: 3.7rem !important; padding: 0; }
+	.function-search .search-content .trending { border-radius: 0; }
+	.function-search .function-venue .dropdown-menu { right: 0 !important; left: 0 !important; width: 100% !important; top: 10.7rem !important; border-radius: 0 0 16px 16px !important; position: absolute !important; }
+	.function-venue-wrap .top-section .options .btn.btn-white { margin-bottom: 8px; }
+
+	/* new landing page */
+	.cta-light { padding: 46px 0; }
+	.cta-dark { padding: 65px 0; }
+	.cta-light .cta-title h3,.cta-dark .cta-title h3 { font-size: 22px;line-height: 34px; }
+	.cta-light .btn ,.cta-dark .btn{ padding: 15px 26px; font-size: 14px; }
+	.cta-testimonial { padding: 40px 0; }
+	.cta-testimonial .heading h3 { font-size: 24px; margin-bottom: 25px; }
+	.feedback_carousel .feedback_box .content { font-size: 16px; }
+
+
+}
+
+@media (min-width:576px) {
+	.modal-dialog { max-width: 480px; }
+}
+
+@media screen and (max-width:576px) {
+/* top-login*/
+.top-login-header { font-size: 24px; }
+
+.top-login-form .desc { font-size: 14px;}
+.top-login-form form .form-control { font-size: 12px; }
+	
+	/*------------------------------
+	  function venue Page CSS
+	-------------------------------*/
+	.index-wrap .function-venue-wrap .top-section { min-height: 500px; }
+
+		/*--------------------------
+	     add your listing popup CSS
+		---------------------------*/
+	.add-listing-popup.modal .modal-header .close { margin-bottom: 10px; }
+	.add-listing-popup .modal-header h5 { font-size: 13px; }
+	.add-listing-popup .modal-header { padding: 40px 15px 10px 15px; }
+	.add-listing-popup .select-category label { font-size: 11px; padding: 10px 5px; }
+	.add-listing-popup input[type="radio"] + label:before { content: ''; border: 1px solid #616161; margin-right: 6px; width: 15px; height: 15px; vertical-align: text-top; }
+	.add-listing-popup input[type="radio"]:checked + label:before { box-shadow: inset 0 0 0px 3px #232a34; }
+	.add-listing-popup .feature-box { padding: 15px 10px; }
+	.add-listing-popup .feature-box h4 { font-size: 13px; }
+	.add-listing-popup .options { flex-direction: column; }
+	.add-listing-popup .filter-bx { width: 100%; }
+	.totb-popup .modal-body .btn.btn-yellow { padding: 8px 18px; font-size: 12px; }
+	/*------------------------------
+	  about us page CSS
+	-------------------------------*/
+	.testimonial-slider .box { width: 90%; margin: 60px auto 30px; }
+	.testimonial-slider .box { padding: 30px 15px; }
+
+	/*------------------------------
+	  modal CSS
+	-------------------------------*/
+	.modal .modal-header h5 { font-size: 24px; padding-bottom: 8px; }
+	.modal .modal-header p { font-size: 12px; }
+	.login-popup.modal .modal-header .close { margin-bottom: -15px; }
+	.contact-popup .form-control { font-size: 12px; }
+	.modal .modal-content { background-color: transparent; border: 0; border-radius: 0; box-shadow: none; }
+	.modal-dialog-centered { min-height: calc(100%); }
+	.modal-dialog { margin: 0 auto; }
+
+	/*.modal.contact-popup .modal-header { padding: 30px 30px 28px 30px; }
+	.modal.thankyou-popup .modal-header { padding: 30px 30px 28px 30px; }*/
+	/*body.modal-open .background-container { -webkit-filter: blur(15px); -moz-filter: blur(15px); -o-filter: blur(15px); -ms-filter: blur(15px); filter: blur(15px); background-color: #ffffff; }*/
+
+	/*---------------------
+			  index Page CSS
+	-----------------------*/
+	.top-section h1 { width: 60%; }
+	.function-venue-wrap .top-section h1 { width: 80%; }
+	.top-section .search-bar { width: 70%; }
+	.index-wrap .top-section { padding: 0; background-position: top -4px center; background-color: #ffffff; height: 250px; }
+	.top-section .amenities { width: 100%; }
+	.top-section .amenities .icon { display: none; }
+	.top-section .content { padding-top: 0px; }
+	.top-section .pd-0 { width: 33.33%; }
+	.top-section .amenities h4 { font-size: 12px; }
+	.top-section .amenities .disable p { font-size: 8px; }
+	.top-section .pd-15 { padding: 16px 5px; background-color: #ffffff; height: 49px; }
+	.top-section .inr-bx { border-top: 2px solid transparent; }
+	.top-section .inr-bx:hover, .top-section .inr-bx.active { border-top: 2px solid #ef7e00; }
+	.top-section .amenities { padding-bottom: 32px; }
+	.category .inside p { height: 100px; margin-bottom: 8px; }
+	/*---------------------
+			  detail Page CSS
+	-----------------------*/
+	.write-review .usr-img { margin-right: 0; margin-bottom: 10px; }
+	.write-review .review-dtl { align-items: center; }
+	.write-review .rw-star { align-items: center; flex-direction: column; }
+	.write-review .rw-rate { align-items: center; }
+	.write-review .usr-star { padding-right: 0; padding-bottom: 10px; }
+	.write-review .rw-btns .btn { margin-right: 10px; margin-bottom: 10px; }
+	.detail-wrap .tag-rgt { text-align: center; }
+	.detail-wrap .react-multi-carousel-track img.react-carousel-image{height:170px;}
+
+	/*---------------------
+	  unsubscribe page CSS
+	-----------------------*/
+	.unsubscribe .top-sec { padding: 20px 10px; }
+	.unsubscribe .top-sec .icon { margin-bottom: 15px; }
+	.unsubscribe .top-sec .icon img { width: 90px; }
+	.unsubscribe .top-sec h2 { font-size: 20px; }
+	.unsubscribe .top-sec h6 { padding: 0 2px; }
+	.unsubscribe .mid-sec { padding: 15px; }
+	.unsubscribe .mid-sec .form-group { margin-bottom: 10px; padding: 5px 0px; }
+	.unsubscribe .mid-sec .btn.btn-filled { font-size: 12px; padding: 10px 28px; }
+
+	/*---------------------
+		  gallery-modal css
+		-----------------------*/
+	.gallery-view .carousel-control-prev { left: -22%; top: 24%; }
+	.gallery-view .carousel-control-next { right: -22%; top: 24%; }
+	.gallery-view .carousel-control-next-icon, .gallery-view .carousel-control-prev-icon { width: 28px; height: 28px; background-size: 10px; }
+
+
+
+
+	/*------------------------------
+	  contact us page CSS
+	-------------------------------*/
+	.contact-us .contact-form { padding: 20px; }
+	.contact-us-wrap .contact-section { padding: 2rem 0; }
+	.contact-us .form-submit { flex-direction: column; }
+	.contact-us .form-submit .captcha img { width: 220px; }
+	.captcha { padding-bottom: 15px; }
+	.contact-us .contact-detail { padding: 20px; }
+
+	/*------------------------------
+	  reset password page CSS
+	-------------------------------*/
+
+	.reset-pwd .reset-form h1 { font-size: 24px; }
+
+
+	/*------------------------------
+	  user profile page CSS
+	-------------------------------*/
+	.profile-wrap .profile-tabs { padding: 35px 0; }
+	.profile-wrap .profile-info { flex-direction: column; }
+	.profile-wrap .usr-img { margin-right: 0; padding-bottom: 15px; }
+	.profile-wrap .tag-left { text-align: center; }
+	.profile-wrap.top-wrap .tag-left h1 { font-size: 24px; padding-bottom: 8px; }
+	.profile-wrap .venue-top { padding: 20px 0; }
+	.reviews-tab .rw-update { align-items: flex-start; flex-direction: column; }
+	.reviews-tab .rw-rating { padding-bottom: 5px; }
+	.photos-tab .photos { padding: 20px 10px 0; }
+	.setting-tab h1 { font-size: 24px; }
+	.profile-block { padding: 20px 5px; }
+	.profile-block .user-content { font-size: 13px; }
+
+	/*------------------------------
+	  landing page CSS
+	-------------------------------*/
+	.landing-page.top-wrap .venue-top { padding: 20px 0 9rem; }
+	.landing-wrap .landing-banner img { display: none; }
+	.landing-wrap .landing-banner .outer-wrap { background-image: url('../img/landing/576-landing-bg.jpg'); background-repeat: no-repeat; background-position: center; background-size: cover; height: 156px; border-radius: 16px; display: block; width: 100%; box-shadow: 0 6px 32px 0 rgba(0, 0, 0, 0.15); }
+	.landing-wrap .landing-banner { padding-bottom: 2rem; }
+
+
+	.overview .dtl-right .contact a { display: inline-block; }
+	.overview .dtl-right .contact .btn.btn-filled { width: 7rem; }
+
+}
+
+@media screen and (max-width:420px) {
+	/* / empty listing page CSS / */
+	.listing .no_result .title {  font-size: 18px; }
+
+	/*------------------------------
+  	function venue Page CSS
+	-------------------------------*/
+	.index-wrap .function-venue-wrap .top-section { min-height: 560px; }
+
+	/*---------------------
+			  comin-soon Page CSS
+	-----------------------*/
+	.coming-soon-wrap { padding: 32px 10px; }
+	.comingsoon .logo { margin-top: -50px; }
+	.comingsoon .logo img { max-width: 110px; }
+	.coming-soon-wrap .contact-btn { margin-right: 0; margin-bottom: 0; }
+	.comingsoon .content h1 { font-size: 20px; }
+	.comingsoon .content p { width: 90%; font-size: 12px; }
+	.comingsoon .pd-15 { padding-left: 5px; padding-right: 5px; }
+	.comingsoon .content h5 { font-size: 14px; }
+
+	/*---------------------
+			 navbar CSS
+	-----------------------*/
+	.top-nav .menu-large a.green { font-size: 12px; }
+	.top-nav.navbar { padding: 0 5px; }
+
+	/*---------------------
+	  Detail Page CSS
+	-----------------------*/
+	.overview .dtl-right .contact .btn.btn-filled { font-size: 11px; margin-bottom: 8px; }
+	.overview .certificate h6 { font-size: 11px; }
+	.comments-tab .social ul li { padding-right: 4px; }
+	.comments-tab .fd-img span { margin-right: 1px; }
+	.detail-wrap .info { margin-right: 0; width: 100%; }
+	/*---------------------
+			  index Page CSS
+	-----------------------*/
+	
+	.section-header { font-size: 18px; }
+	.top-section .search-bar { width: 90%; }
+	/*---------------------
+	 footer CSS
+	-----------------------*/
+	.footer { padding: 0 5px; }
+
+	/*---------------------
+		  gallery-modal css
+		-----------------------*/
+	/*.gallery-view .carousel-thumbnails .carousel-indicators li { height: 37px; }*/
+	.gallery-view .carousel-thumbnails .carousel-indicators li { margin-left: 2px; margin-right: 2px; }
+
+	/*------------------------------
+	  user profile page CSS
+	-------------------------------*/
+	.notification-tab .notification-list .sub-list .list-icon span { width: 32px; height: 32px; }
+	.notification-tab .notification-list .sub-list .list-icon span img { max-width: 24px; }
+	.notification-tab .notification-list .sub-list { align-items: flex-start; }
+	.notification-tab { padding: 20px 0px; }
+	.notification-tab .notification-list .sub-list h5 { font-size: 11px; }
+	.notification-tab .notification-list .sub-list { padding-bottom: 10px; margin-bottom: 10px; }
+	.location-card .place-info { flex-direction: column; }
+	.location-card .loc { padding-right: 0; padding-bottom: 8px; }
+	.reviews-tab { padding: 15px; }
+	.reviews-tab .review-box { padding-bottom: 10px; margin-bottom: 10px; }
+	.setting-tab { padding: 20px 0; }
+	.setting-tab .form-group { margin-bottom: 0.8rem; }
+
+	/* contact us page */
+	.contact-us-wrap .venue-top {
+	  background-position: right;
+	}
+
+
+
+}
+
+@media screen and (max-width:359px) {
+	.related_venues .card { border-radius: 15px 15px 8px 8px; }
+	.related_venues .card > .row { flex-direction: column; }
+	.related_venues .card > .row .col-5, .related_venues .card > .row .col-7 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%; }
+	.related_venues .card-img { border-radius: 15px 15px 0 0; }
+	.related_venues .card-body { padding: 10px; }
+
+
+}
+
+/*listing*/
+@media only screen and (min-width:992px) {
+	body .listing-wrap { overflow-y: hidden; }
+	.listing .middle-content .map-details .filter { background-color: transparent; }
+	.listing .middle-content .map-details .filter .filter-btn .listing-toggle { display: none; }
+	.listing .middle-content .map-details { width: 65%; /*height: 88vh;*/ overflow-y: scroll; box-shadow: 0 24px 24px 0 rgba(0, 0, 0, 0.1); background-color: #ffffff; z-index: 1; }
+	.listing .middle-content .map-sec { width: 35%; height: auto; }
+}

@@ -1,0 +1,1102 @@
+[
+	{
+		"city": "Sydney", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "South Melbourne", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Brisbane", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Perth", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Adelaide", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Newcastle", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Gold Coast", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Cranbourne", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Canberra", 
+		"admin": "Australian Capital Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Wollongong", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Geelong", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Cairns", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Townsville", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Albury", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Nowra", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Darwin", 
+		"admin": "Northern Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Toowoomba", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ballarat", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bendigo", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Hobart", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "North Mackay", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Mandurah", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Launceston", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Rockhampton", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Coffs Harbour", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Wagga Wagga", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bundaberg", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Port Macquarie", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Mildura", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Taree", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Orange", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Caloundra", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "West Tamworth", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kalgoorlie", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Shepparton", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Mount Isa", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Tweed Heads", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Queanbeyan", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Melton", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Dubbo", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Caboolture", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "North Lismore", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Gladstone", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Warrnambool", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Sunbury", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Alice Springs", 
+		"admin": "Northern Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Geraldton", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bunbury", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Albany", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Hervey Bay", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Mount Gambier", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Armidale", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Whyalla", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Sale", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Katoomba", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Goulburn", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Maryborough", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kwinana", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Burnie", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Echuca", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Devonport", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Roebourne", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "East Maitland", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Traralgon", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Murray Bridge", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Forster", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Broken Hill", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Karratha", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Gawler", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Griffith", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kingston Beach", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Port Hedland", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ballina", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Wangaratta", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Port Augusta West", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Richmond North", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Singleton", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bongaree", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Port Lincoln", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Broome", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Horsham", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Port Pirie", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Warwick", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kempsey", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Portland", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Gympie South", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Muswellbrook", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Parkes", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Lithgow", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bairnsdale East", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bowen", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Yeppoon", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Batemans Bay", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kiama", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Busselton", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Innisfail", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Katherine", 
+		"admin": "Northern Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Moranbah", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "South Grafton", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Dalby", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Charters Towers", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Emerald", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Swan Hill", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ulladulla", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Colac", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ayr", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Hamilton", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kingaroy", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Inverell", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Moree", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Deniliquin", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Esperance", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Victor Harbor", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Young", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Carnarvon", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Leeton", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Gunnedah", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Narrabri West", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Maryborough", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Stawell", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Atherton", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Cowra", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Byron Bay", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Tumut", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Cooma", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Pambula", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Biloela", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "South Ingham", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bathurst", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ararat", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Wonthaggi", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Northam", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kununurra", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Roma", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Mudgee", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Newman", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "McMinns Lagoon", 
+		"admin": "Northern Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Forbes", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Berri", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Cobram", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Scone", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Goondiwindi", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Manjimup", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Narrogin", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Smithton", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Proserpine", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Katanning", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Seymour", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Clare", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Central Coast", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Port Douglas", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Longreach", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Weipa", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Wallaroo", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Tom Price", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Merredin", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bordertown", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bourke", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "North Scottsdale", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Queenstown", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Charleville", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Yamba", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Tumby Bay", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Mount Barker", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Peterborough", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Wagin", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ceduna", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kalbarri", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Penola", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Meningie", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Gingin", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ouyen", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Port Denison", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Halls Creek", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Cloncurry", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Oatlands", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Winton", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ravensthorpe", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Exmouth", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Barcaldine", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Streaky Bay", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Norseman", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Yulara", 
+		"admin": "Northern Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Georgetown", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Pannawonica", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Pine Creek", 
+		"admin": "Northern Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Meekatharra", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kimba", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Boulia", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Onslow", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Quilpie", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Cowell", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Andamooka", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Eidsvold", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Woomera", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Wilcannia", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Mount Magnet", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Hughenden", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Laverton", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Richmond", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Birdsville", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Ivanhoe", 
+		"admin": "New South Wales", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Morawa", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Theodore", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Adelaide River", 
+		"admin": "Northern Territory", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Leonora", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kingston South East", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Thargomindah", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Burketown", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Three Springs", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Southern Cross", 
+		"admin": "Western Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Camooweal", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bicheno", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Karumba", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Windorah", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Bedourie", 
+		"admin": "Queensland", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Kingoonya", 
+		"admin": "South Australia", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Melbourne", 
+		"admin": "Victoria", 
+		"country": "Australia" 
+	}, 
+	{
+		"city": "Currie", 
+		"admin": "Tasmania", 
+		"country": "Australia" 
+	},
+	{
+		"city": "Penrith", 
+		"admin": "New South Wales", 
+		"country": "Australia"
+	}
+]

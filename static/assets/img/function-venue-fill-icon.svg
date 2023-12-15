@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Function-Venue-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.43475021%" y1="50%" x2="84.5032818%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFAA00" offset="0%"></stop>
+            <stop stop-color="#EE7B00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Function-Venue-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Drink&amp;Dine" fill="url(#linearGradient-1)">
+            <g id="Function-Venue">
+                <path d="M15,0 C21.627417,0 27,5.7307552 27,12.8 C27,19.8692448 15,32 15,32 C15,32 3,19.8692448 3,12.8 C3,5.7307552 8.372583,0 15,0 Z M14.9365007,7.93650071 C12.7273617,7.93650071 10.9365007,9.72736171 10.9365007,11.9365007 C10.9365007,14.1456397 12.7273617,15.9365007 14.9365007,15.9365007 C17.1456397,15.9365007 18.9365007,14.1456397 18.9365007,11.9365007 C18.9365007,9.72736171 17.1456397,7.93650071 14.9365007,7.93650071 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

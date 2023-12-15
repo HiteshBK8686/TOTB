@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Drink&amp;Dine Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.43475021%" y1="50%" x2="84.5032818%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFAA00" offset="0%"></stop>
+            <stop stop-color="#EE7B00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Drink&amp;Dine-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Drink&amp;Dine-Fill" fill="url(#linearGradient-1)">
+            <path d="M16.9693014,17 L16.969,28 L21.0462244,28 C21.5196114,28 21.9097695,28.3860402 21.9630911,28.8833789 L21.9693014,29 C21.9693014,29.5522847 21.5560257,30 21.0462244,30 L21.0462244,30 L10.8923783,30 C10.382577,30 9.96930136,29.5522847 9.96930136,29 C9.96930136,28.4477153 10.382577,28 10.8923783,28 L10.8923783,28 L14.969,28 L14.9693014,17 L16.9693014,17 Z M32,2 C31.4831579,10.3710616 24.5172851,17.0007031 16,17.0007031 C7.48271485,17.0007031 0.516842087,10.3710616 -1.0249579e-12,2 L-1.0249579e-12,2 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

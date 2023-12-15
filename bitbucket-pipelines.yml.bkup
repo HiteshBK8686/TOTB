@@ -1,0 +1,11 @@
+image: node:10.15.3
+
+pipelines:
+  branches:
+    develop:
+      - step:
+          caches:
+            - node
+          script: # Modify the commands below to build your repository.
+            - npm install
+            - ssh ubuntu@ec2-54-206-64-255.ap-southeast-2.compute.amazonaws.com 'bash -s' < execute.sh

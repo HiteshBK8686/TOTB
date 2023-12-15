@@ -1,0 +1,4 @@
+node_modules/
+lib/api/getRootUrl.js
+.env
+.next/

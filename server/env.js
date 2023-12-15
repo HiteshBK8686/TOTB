@@ -1,0 +1,1 @@
+module.exports.siteURL = 'http://admin.10ofthebest.com.au';

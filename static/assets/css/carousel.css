@@ -1,0 +1,27 @@
+ .owl-nav div{
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+-webkit-transform: translateY(-50%);
+border:1px solid #000;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+}
+body .owl-prev{
+  left: 0;
+  display: flex;
+}
+body .owl-next{
+  right: 0;
+  display: flex;
+}
+body .owl-prev i, body .owl-next i{
+  margin: auto;
+}
+#owl_about_main_slider div h2{
+text-align: center;
+}
+.owl-carousel.off {
+    display: block;
+}
